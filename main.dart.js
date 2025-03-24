@@ -26176,7 +26176,7 @@ k=""+a
 A.ev("Page Index: "+k+";\nQuery: "+b)
 f=h
 s=7
-return A.C(A.aBK(A.e0("https://www.eporner.com/api/v2/video/search/?query="+b+"&per_page=30&page="+k+"&thumbsize=big&order=latest&gay=0&lq=0&format=json",0,null)),$async$Iw)
+return A.C(A.aBK(A.e0("https://www.eporner.com/api/v2/video/search/?query="+b+"&per_page=30&page="+k+"&thumbsize=big&order=top-weekly&gay=0&lq=0&format=json",0,null)),$async$Iw)
 case 7:f.b=d
 k=B.bP.dV(B.M.dV(h.aN().w))
 s=8
